@@ -1,0 +1,267 @@
+SFRS4	SR proteins	SR proteins 
+SFRS11	SR proteins	SR proteins 
+SFRS6	SR proteins	SR proteins 
+SFRS5	SR proteins	SR proteins 
+SFRS1	SR proteins	SR proteins 
+SFRS7	SR proteins	SR proteins 
+SFRS2	SR proteins	SR proteins 
+SFRS9	SR proteins	SR proteins 
+SFRS10	SR proteins	SR proteins 
+SFRS3	SR proteins	SR proteins 
+SRRM2	SR related proteins	Non-snRNP spliceosome-assembly proteins 
+DDX46	U2 snRNP related	Non-snRNP spliceosome-assembly proteins 
+CRNKL1	hPrp19 / Cdc5L related	Non-snRNP spliceosome-assembly proteins 
+CDC5L	hPrp19 / Cdc5L complex	Non-snRNP spliceosome-assembly proteins 
+NCBP1	Cap binding complexes	Non-snRNP spliceosome-assembly proteins 
+SF1	abundant in first or only present in A complex	Non-snRNP spliceosome-assembly proteins 
+SKIIP	hPrp19 / Cdc5L related	Non-snRNP spliceosome-assembly proteins 
+SIAHBP1	U2 snRNP related	Non-snRNP spliceosome-assembly proteins 
+PLRG1	hPrp19 / Cdc5L complex	Non-snRNP spliceosome-assembly proteins 
+PRPF19	hPrp19 / Cdc5L complex	Non-snRNP spliceosome-assembly proteins 
+U2AF2	U2 snRNP related	Non-snRNP spliceosome-assembly proteins 
+U2AF1	U2 snRNP related	Non-snRNP spliceosome-assembly proteins 
+SMNDC1	U2 snRNP related	Non-snRNP spliceosome-assembly proteins 
+NCBP2	CBP20	Non-snRNP spliceosome-assembly proteins 
+SNRP70	U1 snRNP	U1 snRNP specific proteins
+SNRPA	U1 snRNP	U1 snRNP specific proteins
+SNRPC	U1 snRNP	U1 snRNP specific proteins
+SF3B1	U2 snRNP	U2 snRNP specific proteins
+SF3B2	U2 snRNP	U2 snRNP specific proteins
+PABPN1	3'end processing	3'end processing
+SFPQ	other	other
+SF3B3	U2 snRNP	U2 snRNP specific proteins
+SF3A1	U2 snRNP	U2 snRNP specific proteins
+SF3A2	U2 snRNP	U2 snRNP specific proteins
+SF3A3	U2 snRNP	U2 snRNP specific proteins
+SF3B4	U2 snRNP	U2 snRNP specific proteins
+SNRPA1	U2 snRNP	U2 snRNP specific proteins
+SNRPB2	U2 snRNP	U2 snRNP specific proteins
+P14	U2 snRNP	U2 snRNP specific proteins
+PRPF8	U5 snRNP	U5 snRNP specific proteins
+U5-200KD	U5 snRNP	U5 snRNP specific proteins
+NONO	other	other
+RBM35A	other	other
+U5-116KD	U5 snRNP	U5 snRNP specific proteins
+C20ORF14	U5 snRNP	U5 snRNP specific proteins
+DDX23	U5 snRNP	U5 snRNP specific proteins
+CD2BP2	U5 snRNP	U5 snRNP specific proteins
+HPRP8BP	U5 snRNP	U5 snRNP specific proteins
+TXNL4	U5 snRNP	U5 snRNP specific proteins
+PRPF3	U4/U6 snRNP	U4/U6 snRNP specific proteins
+PRPF4	U4/U6 snRNP	U4/U6 snRNP specific proteins
+PRPF31	U4/U6 snRNP	U4/U6 snRNP specific proteins
+PPIH	U4/U6 snRNP	U4/U6 snRNP specific proteins
+RBM35B	other	other
+CCDC55	other	other
+NHP2L1	U4/U6 snRNP	U4/U6 snRNP specific proteins
+SART1	U4/U6.U5 snRNP	U4/U6.U5 tri-snRNP specific proteins
+USP39	U4/U6.U5 snRNP	U4/U6.U5 tri-snRNP specific proteins
+RY1	U4/U6.U5 snRNP	U4/U6.U5 tri-snRNP specific proteins
+SNRPB	SM proteins	Sm/LSm core proteins
+SNRPD1	SM proteins	Sm/LSm core proteins
+SNRPD2	SM proteins	Sm/LSm core proteins
+SNRPD3	SM proteins	Sm/LSm core proteins
+SNRPE	SM proteins	Sm/LSm core proteins
+SNRPF	SM proteins	Sm/LSm core proteins
+DBR1	other	other
+SNRPG	SM proteins	Sm/LSm core proteins
+LSM2	LSm proteins	Sm/LSm core proteins
+LSM3	LSm proteins	Sm/LSm core proteins
+LSM4	LSm proteins	Sm/LSm core proteins
+LSM6	LSm proteins	Sm/LSm core proteins
+LSM7	LSm proteins	Sm/LSm core proteins
+DHX38	Catalytic step II and late acting proteins	Catalytic step II and late acting proteins
+DHX8	second step factors	Catalytic step II and late acting proteins
+DHX15	U2 snRNP related	Catalytic step II and late acting proteins
+SLU7	second step factors	Catalytic step II and late acting proteins
+DIS3	RNA degradation	RNA degradation
+EXOSC4	RNA degradation	RNA degradation
+CDC40	abundant first in Bact complex	Catalytic step II and late acting proteins
+PRPF18	second step factors	Catalytic step II and late acting proteins
+SRRM1	SR related proteins	Spliced mRNP/EJC proteins
+BAT1	EJC / mRNP	Spliced mRNP/EJC proteins
+RNPS1	EJC / mRNP	Spliced mRNP/EJC proteins
+THOC4	EJC / mRNP	Spliced mRNP/EJC proteins
+RBM8A	EJC / mRNP	Spliced mRNP/EJC proteins
+MAGOH	EJC / mRNP	Spliced mRNP/EJC proteins
+TCERG1	Miscellaneous proteins	Other previously reported splicing factors/SAPs
+PRPF4B	Abundant first in B complex	Other previously reported splicing factors/SAPs
+DDX5	other	Other previously reported splicing factors/SAPs
+IK	Abundant first in B complex	Other previously reported splicing factors/SAPs
+PPM1G	other	Other previously reported splicing factors/SAPs
+PABPC1	3'end processing	Other previously reported splicing factors/SAPs
+RBM17	U2 snRNP related	Other previously reported splicing factors/SAPs
+DNAJC8	other	Other previously reported splicing factors/SAPs
+BCAS2	hPrp19 / Cdc5L complex	Other previously reported splicing factors/SAPs
+ACIN1	EJC / mRNP	RRM-containing proteins 
+SHARP	other	RRM-containing proteins 
+HTATSF1	U2 snRNP related	RRM-containing proteins 
+RNPC2	other	RRM-containing proteins 
+CPSF6	other	RRM-containing proteins 
+RBM15	other	RRM-containing proteins 
+RBM22	hPrp19 / Cdc5L related	RRM-containing proteins 
+IMP-3	other	RRM-containing proteins 
+CIRBP	other	RRM-containing proteins 
+DDX48	EJC / mRNP	DExD box proteins
+DDX17	other	DExD box proteins
+DHX16	abundant first in Bact complex	DExD box proteins
+DHX9	other	DExD box proteins
+DDX3X	other	DExD box proteins
+SKIV2L2	Miscellaneous proteins	DExD box proteins
+DHX57	other	DExD box proteins
+DHX30	other	DExD box proteins
+DHX32	other	DExD box proteins
+DHX33	other	DExD box proteins
+DDX10	other	DExD box proteins
+DDX24	other	DExD box proteins
+DDX52	other	DExD box proteins
+DIS3L	RNA degradation	RNA degradation
+DEK	other	other
+DDX31	other	DExD box proteins
+DDX11	other	DExD box proteins
+DDX28	other	DExD box proteins
+DDX12	other	DExD box proteins
+TDRD9	other	DExD box proteins
+LOC164045	other	DExD box proteins
+MOV10	other	DExD box proteins
+XAB2	hPrp19 / Cdc5L related	Proteins with other known motifs
+THOC1	other	Proteins with other known motifs
+LUC7A	other	Proteins with other known motifs
+KIAA1604	abundant first in Bact complex	Proteins with other known motifs
+FUBP3	other	Proteins with other known motifs
+MGC2655	other	Proteins with other known motifs
+CRK7	other	Proteins with other known motifs
+TFIP11	Abundant first in B complex	Proteins with other known motifs
+CPSF5	other	Proteins with other known motifs
+THOC3	other	Proteins with other known motifs
+G10	hPrp19 / Cdc5L related	Proteins with other known motifs
+ZNF207	other	Proteins with other known motifs
+ARS2	RNA binding proteins	Proteins with no known motif
+THOC2	other	Proteins with no known motif
+C22ORF19	Miscellaneous proteins	Proteins with no known motif
+NIF3L1BP1	other	Proteins with no known motif
+MGC13125	RES complex	Proteins with no known motif
+WTAP	other	Proteins with no known motif
+C21ORF66	other	Proteins with no known motif
+DKFZP434I116	other	Proteins with no known motif
+KIAA1160	hPrp19 / Cdc5L related	Proteins with no known motif
+HSPC148	other	Proteins with no known motif
+DGCR14	other	Proteins with no known motif
+GTL3	other	Proteins with no known motif
+MGC2803	other	Proteins with no known motif
+HNRPA0	hnRNP	Proteins designated as H complex components
+HNRPA1	hnRNP	Proteins designated as H complex components
+HNRPA2B1	hnRNP	Proteins designated as H complex components
+HNRNPA3	hnRNP	Proteins designated as H complex components
+HNRPC	hnRNP	Proteins designated as H complex components
+HNRPD	hnRNP	Proteins designated as H complex components
+PTBP1	hnRNP	Proteins designated as H complex components
+HNRPK	hnRNP	Proteins designated as H complex components
+HNRPL	hnRNP	Proteins designated as H complex components
+HNRPR	hnRNP	Proteins designated as H complex components
+RALY	hnRNP	Proteins designated as H complex components
+FUS	hnRNP	Proteins designated as H complex components
+ILF3	hnRNP	Proteins designated as H complex components
+ILF2	hnRNP	Proteins designated as H complex components
+SYNCRIP	hnRNP	Proteins designated as H complex components
+MATR3	Miscellaneous proteins	Proteins designated as H complex components
+BUB3	other	Proteins designated as H complex components
+ELAVL1	RNA binding proteins	Proteins designated as H complex components
+TAF15	other	Proteins designated as H complex components
+YBX1	RNA binding proteins	Proteins designated as H complex components
+CSDA	other	Proteins designated as H complex components
+HSPA1A	other	Proteins designated as H complex components
+HSPA8	other	Proteins designated as H complex components
+HNRPF	hnRNP	Proteins designated as H complex components
+HNRPH1	hnRNP	Proteins designated as H complex components
+HNRPH3	hnRNP	Proteins designated as H complex components
+HNRPH2	hnRNP	Proteins designated as H complex components
+HNRPU	hnRNP	Proteins designated as H complex components
+HSPA5	other	Proteins designated as H complex components
+KHDRBS1	other	Others
+SRPK2	other	Others
+RBM10	abundant in first or only present in A complex	Others
+DICER1	other	Others
+EWSR1	other	Others
+RBM6	other	Others
+RBM5	abundant in first or only present in A complex	Others
+TIA1	other	Others
+TIAL1	other	Others
+FNBP3	abundant in first or only present in A complex	Early splicing factors
+RBM25	abundant in first or only present in A complex	Early splicing factors
+SR140	U2 snRNP related	Early splicing factors
+CHERP	U2 snRNP related	Early splicing factors
+CCAR1	abundant in first or only present in A complex	Early splicing factors
+THRAP3	abundant in first or only present in A complex	Early splicing factors
+WBP4	Abundant first in B complex	B complex stage
+MFAP1	Abundant first in B complex	B complex stage
+SMU1	Abundant first in B complex	B complex stage
+CTNNBL1	hPrp19 / Cdc5L complex	B complex stage
+AQR	hPrp19 / Cdc5L related	B complex stage
+PQBP1	hPrp19 / Cdc5L complex	B complex stage
+WBP11	hPrp19 / Cdc5L complex	B complex stage
+KIN	Miscellaneous proteins	B complex stage
+DDX41	Abundant or found only in C complex	C complex stage
+FLJ22965	Abundant or found only in C complex	C complex stage
+P29	Abundant or found only in C complex	C complex stage
+DHX35	Abundant or found only in C complex	C complex stage
+C19ORF29	Abundant or found only in C complex	C complex stage
+FLJ35382	Abundant or found only in C complex	C complex stage
+C9ORF78	Abundant or found only in C complex	C complex stage
+NOSIP	Abundant or found only in C complex	C complex stage
+LENG1	Abundant or found only in C complex	C complex stage
+MORG1	Abundant or found only in C complex	C complex stage
+MGC20398	abundant first in Bact complex	C complex stage
+MGC23918	abundant first in Bact complex	C complex stage
+FRG1	other	C complex stage
+CDK10	Abundant or found only in C complex	C complex stage
+DXS9928E	Abundant or found only in C complex	C complex stage
+D6S2654E	other	C complex stage
+FAM32A	other	C complex stage
+KIAA0073	Abundant or found only in C complex	PPIases
+PPIL3	abundant first in Bact complex	PPIases
+PPIE	hPrp19 / Cdc5L related	PPIases
+PPIL1	hPrp19 / Cdc5L related	PPIases
+SDCCAG10	abundant first in Bact complex	PPIases
+PPIL2	abundant first in Bact complex	PPIases
+PPIG	Abundant or found only in C complex	PPIases
+ASCL1	Lysine methyltransferases 	Lysine methyltransferases 
+TET1	Lysine demethylases 	Lysine demethylases 
+HDAC3	Histone Deacetylases 	Histone Deacetylases 
+SUV39H1	Lysine methyltransferases 	Lysine methyltransferases 
+SETD1A	Lysine methyltransferases 	Lysine methyltransferases 
+EHMT2	Lysine methyltransferases 	Lysine methyltransferases 
+SETD2	Lysine methyltransferases 	Lysine methyltransferases 
+MECP2	Methyl-CpG DNA Binding Domain (MDB) Proteins 	Methyl-CpG DNA Binding Domain (MDB) Proteins 
+MBD2	Methyl-CpG DNA Binding Domain (MDB) Proteins 	Methyl-CpG DNA Binding Domain (MDB) Proteins 
+NAB2	Nucleosome-Remodeling and Histone Deacetylase 	Nucleosome-Remodeling and Histone Deacetylase 
+BMI1	Polycomb Group Genes 	Polycomb Group Genes 
+EED	Polycomb Group Genes 	Polycomb Group Genes 
+PHC1	Polycomb Group Genes 	Polycomb Group Genes 
+AOF2	Lysine demethylases 	Lysine demethylases 
+JMJD2B	Lysine demethylases 	Lysine demethylases 
+PHC2	Polycomb Group Genes 	Polycomb Group Genes 
+EZH2	Polycomb Group Genes 	Polycomb Group Genes 
+SMARCA4	SWI/SNF Complex Components  	SWI/SNF Complex Components  
+SMARCA2	SWI/SNF Complex Components  	SWI/SNF Complex Components  
+KAT2B	Lysine acetyltransferase 	Lysine acetyltransferase 
+DNMT1	others DNA modification	others DNA modification
+EIF2C2	others DNA modification	others DNA modification
+CBX3	Chromobox / Heterochromatin Protein 1 (HP1) 	Chromobox / Heterochromatin Protein 1 (HP1) 
+RPS6KA5	Serine/Threonine Kinases 	Serine/Threonine Kinases 
+ASH2L	Ubiquitilases  	Ubiquitilases  
+HMGA1	other	other
+EP300	Histone Acetyl transferases 	Histone Acetyl transferases 
+KAT2A	Histone Acetyl transferases 	Histone Acetyl transferases 
+KAT5	Histone Acetyl transferases 	Histone Acetyl transferases 
+CARM1	Arginine methyltransferases 	Arginine methyltransferases 
+PRMT5	Arginine methyltransferases 	Arginine methyltransferases 
+BRD4	Bromodomain proteins 	Bromodomain proteins 
+CTCF	other	other
+CHD1	Chromodomain proteins 	Chromodomain proteins 
+MORF4L1	Chromodomain proteins 	Chromodomain proteins 
+HDAC1	Histone Deacetylases 	Histone Deacetylases 
+SIRT1	Histone Deacetylases 	Histone Deacetylases 
+HDAC2	Histone Deacetylases 	Histone Deacetylases 
+HDAC4	Histone Deacetylases 	Histone Deacetylases 
+HDAC6	Histone Deacetylases 	Histone Deacetylases 
